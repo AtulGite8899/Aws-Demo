@@ -1,4 +1,4 @@
 # Aws-Demo
 This is my AWS demo repository.
 <br>
-Author -Atul Gite
+Author -Atul A Gite
